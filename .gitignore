@@ -1,0 +1,9 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Packages
+node_modules
+
+# Mac awesome files
+.DS_Store
