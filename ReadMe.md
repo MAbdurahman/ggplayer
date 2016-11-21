@@ -2,6 +2,8 @@ GGplayer
 ========
 GGplayer is a responsive HTML5 video player in pure javascript.
 
+![GGPlayer](https://raw.githubusercontent.com/gregoiremielle/ggplayer/master/app/assets/img/screenshot.jpg)
+
 ## Features
 - Responsive design
 - Keyboard shortcuts
