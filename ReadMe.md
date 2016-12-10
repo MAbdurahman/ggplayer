@@ -1,6 +1,7 @@
 GGplayer
 ========
 GGplayer is a responsive HTML5 video player in pure javascript.
+[Discover GGplayer here](https://gregoiremielle.github.io/ggplayer/app/)
 
 ![GGPlayer](https://raw.githubusercontent.com/gregoiremielle/ggplayer/master/app/assets/img/screenshot.jpg)
 
@@ -32,8 +33,6 @@ GGplayer is a responsive HTML5 video player in pure javascript.
 - Gulp.js
 
 ## Installation
-To see the player in action, you will need to visit [this link](http://dev.gregoiremielle.com/ggplayer/) or to follow the instructions below. Indeed, browsers block files from 'file://' when using a VTT file for video preview thumbnails.
-
 ```sh
 # Go to project folder
 cd ggplayer
